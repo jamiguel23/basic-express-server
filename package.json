@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jamiguel23/basic-express-server#readme",
   "dependencies": {
+    "dotenv": "^11.0.0",
     "express": "^4.17.2",
     "jest": "^27.4.7",
     "supertest": "^6.2.1"
