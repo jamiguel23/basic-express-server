@@ -2,6 +2,6 @@
 
 const server = require('./lib/server.js');
 
-const PORT = process.env.PORT || 3000;
 
-server.start(PORT);
+
+server.start(process.env.PORT || 3000);
